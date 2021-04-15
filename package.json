@@ -1,0 +1,15 @@
+{
+    "name": "node-mongoose",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "dependencies": {
+        "install": "^0.13.0",
+        "mongoose": "^5.10.9",
+        "npm": "^7.10.0"
+    }
+}
